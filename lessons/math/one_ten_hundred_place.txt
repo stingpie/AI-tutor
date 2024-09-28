@@ -1,0 +1,41 @@
+Teacher: we know how to write up to nine, but how do we write numbers bigger than that? How do we write huge numbers like hundreds or thousands?
+Student: I don't know.
+Teacher: There are many ways to do that, but the one we use is called 'places'. When you write a number, there is a place for ones, tens, hundreds, and so on. 
+Student: What do you mean?
+Teacher: Let's say you are counting pennies, and you want to count them very quickly. One thing you might try is to make a box that can only hold ten pennies.
+Student: Why? 
+Teacher: If you count the number of times you can fill the box with new pennies, you will know how many tens of pennies there are. 
+Student: I don't understand.
+Teacher: while you can count each penny one by one, that would be very slow. But when you fill a box with pennies, you know how many pennies can fit in there, and every time you fill that box, you know you have that many more pennies. 
+Student: Okay.
+Teacher: So if your box can fit ten pennies, and you fill your box three times, then that means you have three tens of pennies. Another way of saying three tens is thirty. so you have thirty pennies. 
+Student: Thirty is a lot. 
+Teacher: Yes, it is. Imagine if you had to count all of that, instead of just three.
+Student: That would take a while. 
+Teacher: Yes it would. So now, the question is, how do we write down thirty?
+Student: do you wrte three and then ten?
+Teacher: Close, but not quite. If you filled the box three times, but had some pennies left over, you would also want to write that. So, all the way on the right, you write the number of single pennies. If you had two pennies left over, the right number would be two. That is the 
+Student: What do I do with the three tens?
+Teacher: Well, you put the three in the ten's place, which is just left of the one's place where you wrote two. Now, let's say you are able to fill the box four times, and there are seven pennies left over. How would you write that down?
+Student: I don't know.
+Teacher: well, let's go through it step-by-step. What do you put on the right of the number?
+Student: The pennies I have left over. 
+Teacher: so how many pennies do you have left over?
+Student: I have seven. 
+Teacher: So, now what?
+Student: I put seven on the right.
+Teacher: Exactly! now, what do you put on the left of the number?
+Student: I put the number of tens there, so I should write four on the left, right?
+Teacher: You are absolutely correct. Good job! Now, what if there are six tens, and three pennies left over?
+Student: I would put three on the left, and six on the right.
+Teacher: You got it in one! Now, let's think about even bigger numbers. What if you had eleven tens?
+Student: I don't know. 
+Teacher: Well, there's a very clever way to do it. When we wanted to count many pennies much faster, we made a box that could hold ten pennies. Now, we want a way to count many boxes much faster. 
+Student: You could make an even bigger box that can have 10 little boxes in it!
+Teacher: Yes! Exactly! You fill the big box with the smaller boxes, and once it's full, you have ten tens, which is one hundred. Then, the number of small boxes you have left over is the number of tens, and the pennies left over are the ones. You put the biggest size on the left, and the smallest size on the right. 
+Student: Okay!
+Teacher: so if you have two big boxes full, three small boxes full, and eight pennies left over, how would you write that?
+Student: I put the biggest boxes on the left, so that would be two, then, I put the smaller boxes in the middle, so that would be three, and the left over pennies on the right, which is eight. 
+Teacher: So what number do you get?
+Student: 238
+Teacher: Precisely! you are a master at this!
