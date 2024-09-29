@@ -7,12 +7,6 @@ if ANTHROPIC_API_KEY is defined in your environment, you won't need to type it i
 
 The teacher will look at what the student is trying to learn, and try to find an appropriate lesson in the 'lessons' directory. These lessons are designed by humans, but presented as examples to the AI. Since all AIs are lazy when it comes to complex tasks, it will rely heavily on the example, but still be able to follow any tangents the student wants to go down.
 
-Also, this repository requires my fork of streamlit audio recoder, since the orignal did not have support for multiple audio recorders. it can be found here: https://github.com/stingpie/streamlit-audio-recorder 
 
 In order to install you'll need:
-streamlit
-openai
 anthropic
-py-espeak-ng
-speech_recognition
-st_audiorec (my version)
